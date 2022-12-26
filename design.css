@@ -1,0 +1,183 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Assistant', sans-serif;
+}
+
+body {
+    background-color: #f1f1f1;
+}
+
+.container {
+    padding: 20px;
+    margin: 0 40px;
+}
+
+.fa {
+    color: #004aad;
+}
+
+.fa-link {
+    color: #757575;
+}
+
+.left,
+.right1,
+.right2,
+.right3 {
+    background-color: white;
+    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+}
+
+.left {
+    float: left;
+    width: 350px;
+    min-height: 1000px;
+    padding-bottom: 10px;
+}
+
+.left>p {
+    margin: 0 auto;
+    padding: 2px;
+    color: #757575;
+    margin-bottom: 5px;
+}
+
+h3 {
+    margin: 0 auto;
+    font-weight: bold;
+    color: #004aad;
+}
+
+hr {
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.2em;
+    margin-block-end: 0.2em;
+    margin-inline-start: 8px;
+    margin-inline-end: 10px;
+    margin-top: 10px;
+}
+
+.right1 {
+    width: 900px;
+    margin-left: 380px;
+    padding-bottom: 2px;
+}
+
+.right2 {
+    width: 400px;
+    height: 245px;
+    margin-left: 380px;
+    margin-top: 20px;
+}
+
+.right3 {
+    margin-left: 800px;
+    margin-top: -245px;
+    width: 480px;
+    height: 245px;
+    background-color: white;
+}
+
+img {
+    width: 100%;
+    height: 90%;
+    display: block;
+}
+
+h2 {
+    margin: 0 auto;
+    text-align: center;
+    color: #757575;
+}
+
+.skills>p {
+    margin: 4px 5px;
+    color: #757575;
+    font-weight: bold;
+}
+
+.outsidebar {
+    background-color: #f1f1f1;
+    border-radius: 15px;
+    margin: 0 5px;
+}
+
+.skill {
+    background-color: #004aad;
+    color: white;
+    padding: 1%;
+    text-align: right;
+    font-size: 12px;
+    border-radius: 15px;
+}
+
+.python {
+    width: 90%;
+}
+
+.cpp {
+    width: 60%;
+}
+
+.hindi {
+    width: 80%;
+}
+
+.sql {
+    width: 75%;
+}
+
+.gujju {
+    width: 60%;
+}
+
+.rightcontent>h2 {
+    text-align: left;
+    padding: 10px;
+    color: #004aad;
+}
+
+i {
+    margin-left: 4px;
+    margin-right: 3px;
+}
+
+.rightcontent>p {
+    color: #757575;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.rightcontent>.date {
+    margin-top: 0;
+    margin-left: 10px;
+    color: #004aad;
+    font-weight: bold;
+}
+
+span {
+    color: #f1f1f1;
+    background-color: #004aad;
+    border-radius: 10px;
+    padding: 2px 6px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:visited {
+    color: inherit;
+}
+
+.left>hr {
+
+    margin: 10px auto;
+
+}
